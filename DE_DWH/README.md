@@ -9,7 +9,7 @@
 * Для передачи результатов заказчику оформить всю необходимую документацию.
 
 ### Использованные инструменты	
-Python, PostgreSQL, Airflow, Pandas, Sqlalchemy, Psycopg2, Pymongo, json
+Python, Airflow, Pandas, PostgreSQL, MongoDB
 
 ### Выводы
 В результате проделанной работы был налажен ETL-процесс миграции данных из MongoDB в PostgreSQL, был построен многослойный DWH (STG->DDS->CDM), сосздана витрина для расчетов с курьерами.
