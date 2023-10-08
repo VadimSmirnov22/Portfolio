@@ -11,3 +11,4 @@
 | [Определение стоимости авто](DS-car-price-prediction) | DS | Сервис по продаже автомобилей создает приложение с быстрым определением стоимости авто. | *Python, Pandas, Numpy, Matplotlib, Sklearn, Lightgbm* |
 | [Классификация эмоций](DS-emotions-classification) | DS | Парк аттракционов распознает эмоции людей во время развлечений | *Python, Pandas, Numpy, Sklearn, Tensorflow, Keras, OpenCV* |
 | [Предотвращение оттока клиентов](DS-customer-churn-prediction) | DS | Оператору связи нужно научиться прогнозировать отток клиентов | *Python, Pandas, Numpy, Sklearn, Catboost, Scipy, Math, Matplotlib, Seaborn* |
+| [Анализ А/Б тестирования](DA-AB-testing-analysis) | DA | Игровой компании нужно провести анализ А/Б тестирования | *Python, Pandas, Scipy, Math, Matplotlib, Seaborn* |
